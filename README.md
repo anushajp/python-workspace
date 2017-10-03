@@ -1,2 +1,2 @@
-# python_workspace
+# python-workspace
 This repository has simple python programs.
